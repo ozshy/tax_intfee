@@ -2,6 +2,8 @@ R-code and symbolic algebra derivations for a paper entitled:
 
 "Should Credit Card Rewards Be Taxed?" by Oz Shy, ozshy@ozshy.com
 
+This article is forthcoming in the Journal of Public Economic Theory. 
+
 The R-code file: tax-intfee_2023_5_21.R runs constructs all the simulation charts in the paper.
 
 The PDF file: Contains verifications of all derivations in the paper (using symbolic algebra software).
